@@ -1,0 +1,7 @@
+{
+    "name": "mimic/WsClient",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
