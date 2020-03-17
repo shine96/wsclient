@@ -1,6 +1,5 @@
 {
     "name": "mimic/ws-client",
-    "type": "project",
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {}
